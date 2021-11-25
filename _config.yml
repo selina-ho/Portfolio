@@ -3,7 +3,7 @@ datelastupdated: 25th Nov 2021
 fullnameofperson: Selina Ho
 selfIdentification: Research Engineer and Aspiring Data Wiz
 colour1: "#274c77"  # sidebar background 
-colour2: "#a3cef1"  # colour of name and desc
+colour2: "#f4acb7"  # colour of name and desc
 colour3: "#a3cef1"  # colour of Menu links
-colour4: "#d4dfc7" # trying to be background colour - still experimenting 
-colour5: "#e7ecef" # menu link colour when hover
+colour4: "#ffcad4" # trying to be background colour
+colour5: "#f4acb7" # menu link colour when hover
