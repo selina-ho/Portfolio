@@ -13,7 +13,7 @@
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Queensland University of Technology      |Research Engineer         |2021-present|
+|Biomechanics and Spine Research Group      |Research Engineer         |2021-present|
 |Queensland University of Technology      |First-year Physics Practical Demonstrator         |2021-present|
 
 ## Skills
