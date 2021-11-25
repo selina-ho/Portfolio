@@ -27,15 +27,9 @@
 
 ## Publications
 
-**Acceso a recursos de cómputo de alto rendimiento mediante correo electrónico (Access to high performance computing resources via email)**
-Estévez-Velarde, S., Miotto, A., Bolufé-Röhler, A., & Chen, S. 2014
-https://experts.griffith.edu.au/publication/n4c4419aae6abe7655f9b1611680dd0f1
-
-
-**Invited Editorial for Artificial Organs Journal**
-OpenHeart Project – An Open-Source Research Community in the Field of Mechanical Circulatory Support
-Jo P Pauls, Amanda Miotto, Andrew Stephens, Shaun D Gregory, Geoff Tansley 2018
-
+**Degradation of Melt Electrowritten PCL Scaffolds Following Melt Processing and Plasma Surface Treatment**
+Naomi C. Paxton,Selina W. K. Ho,Bryan T. Tuten,Josh Lipton-Duffin,Maria A. Woodruff. 2021
+(https://onlinelibrary.wiley.com/doi/10.1002/marc.202100433)
 
 
 ## Projects
