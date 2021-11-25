@@ -14,21 +14,23 @@
 
 | ------------------------------------- | ------------------------------------------- | ----- |
 |Queensland University of Technology      |Research Engineer         |2021-present|
+|Queensland University of Technology      |First-year Physics Practical Demonstrator         |2021-present|
 
 ## Skills
 
-- Intermediate skills in:
+- Coding:
   - Python
   - R
-  - Linux/Bash
-  - SQL
+  - MATLAB
+  - C#
+  - Basic
 - Communication across different audiences
-- Writing a Github Page Resume then teaching it
+- Eating a lot of ramen
 
 ## Publications
 
 **Degradation of Melt Electrowritten PCL Scaffolds Following Melt Processing and Plasma Surface Treatment**
-Naomi C. Paxton,Selina W. K. Ho,Bryan T. Tuten,Josh Lipton-Duffin,Maria A. Woodruff. 2021
+N C.Paxton, S W.K.Ho, B T.Tuten,J Lipton-Duffin, M.A.Woodruff. 2021
 (https://onlinelibrary.wiley.com/doi/10.1002/marc.202100433)
 
 
