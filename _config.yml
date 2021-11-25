@@ -2,8 +2,8 @@ description: This is a template researchers can walk away with and create their 
 datelastupdated: 25th Nov 2021
 fullnameofperson: Selina Ho
 selfIdentification: Research Engineer and Aspiring Data Wiz
-colour1: "#274c77"  # sidebar background 
+colour1: "#d8e2dc"  # sidebar background 
 colour2: "#f4acb7"  # colour of name and desc
-colour3: "#a3cef1"  # colour of Menu links
+colour3: "#9d8189"  # colour of Menu links
 colour4: "#ffcad4" # trying to be background colour
-colour5: "#f4acb7" # menu link colour when hover
+colour5: "#ffcad4" # menu link colour when hover
