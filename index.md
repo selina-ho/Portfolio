@@ -7,13 +7,13 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Engineering(Honours)/Bachelor of Science (Majoring in Medical and Chemistry) | Queensland Univeristy of Technology         | 2016-2020 |
-| Master of Data Analytics | Queensland Univeristy of Technology | 2021- present |
+| Bachelor of Engineering(Honours)/Bachelor of Science (Majoring in Medical and Chemistry) | Queensland University of Technology         | 2016-2020 |
+| Master of Data Analytics | Queensland University of Technology | 2021- present |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Queensland Univeristy of Technology      |Research Engineer         |2021-present|
+|Queensland University of Technology      |Research Engineer         |2021-present|
 
 ## Skills
 
