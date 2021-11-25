@@ -30,8 +30,9 @@
 ## Publications
 
 **Degradation of Melt Electrowritten PCL Scaffolds Following Melt Processing and Plasma Surface Treatment**
+
 N C.Paxton, S W.K.Ho, B T.Tuten,J Lipton-Duffin, M.A.Woodruff. 2021
-(https://onlinelibrary.wiley.com/doi/10.1002/marc.202100433)
+[Link] (https://onlinelibrary.wiley.com/doi/10.1002/marc.202100433)
 
 
 ## Projects
