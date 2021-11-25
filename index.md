@@ -7,17 +7,13 @@
 ## Education
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-| Bachelor of Engineering(Honours)/Bachelor of Science (Majoring in Medical Engineering and Chemistry) | Queensland Univeristy of Technology         | 2016-2020 |
-| Carpentry Instructor | The Carpentries | 2015 |
-| Agile Business Analysis Foundation Course | DDLS Brisbane | 2018 |
+| Bachelor of Engineering(Honours)/Bachelor of Science (Majoring in Medical and Chemistry) | Queensland Univeristy of Technology         | 2016-2020 |
+| Master of Data Analytics | Queensland Univeristy of Technology | 2021- present |
 
 ## Employment
 
 | ------------------------------------- | ------------------------------------------- | ----- |
-|Griffith University      |eResearch Analyst         |2016-Present|
-|QCIF Secondment|eResearch Analyst |2018-Present|
-|Griffith University|Software Engineer |2010-2016|
-|Griffith University|Bioinformatician |2008-2010|
+|Queensland Univeristy of Technology      |Research Engineer         |2021-present|
 
 ## Skills
 
